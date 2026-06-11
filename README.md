@@ -23,7 +23,7 @@ https://universe.roboflow.com/builker/hospital-regional-sur-oriental-0boql
 
 Desarrollar un modelo capaz de detectar automáticamente campos relevantes en tickets hospitalarios para contribuir a la automatización de procesos documentales.
 
-📊 Etapas desarrolladas
+## 📊 Etapas desarrolladas
 - Validación del dataset.
 - Análisis exploratorio de datos (EDA).
 - Procesamiento de imágenes.
@@ -34,7 +34,7 @@ Desarrollar un modelo capaz de detectar automáticamente campos relevantes en ti
 - Desarrollo de modelo complementario Random Forest.
 - Análisis de resultados y conclusiones.
 
-🤖 Modelos implementados
+## 🤖 Modelos implementados
 YOLOv8
 
 Modelo principal utilizado para la detección automática de campos dentro de tickets hospitalarios utilizando imágenes.
